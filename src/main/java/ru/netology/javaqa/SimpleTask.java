@@ -1,3 +1,5 @@
+package ru.netology.javaqa;
+
 public class SimpleTask extends Task {
     protected String title;
 

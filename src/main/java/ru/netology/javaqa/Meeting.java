@@ -1,3 +1,5 @@
+package ru.netology.javaqa;
+
 public class Meeting extends Task {
     protected String topic;
     protected String project;
@@ -11,7 +13,7 @@ public class Meeting extends Task {
 
     }
 
-    public String getSubtasks() {
+    public String getTopic() {
         return topic;
     }
 

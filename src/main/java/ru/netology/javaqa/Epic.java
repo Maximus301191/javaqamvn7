@@ -1,3 +1,5 @@
+package ru.netology.javaqa;
+
 public class Epic extends Task {
     protected String[] subtasks;
 

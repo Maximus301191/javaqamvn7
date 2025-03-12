@@ -1,3 +1,5 @@
+package ru.netology.javaqa;
+
 import java.util.Objects;
 
 public class Task {
@@ -7,9 +9,6 @@ public class Task {
         this.id = id;
     }
 
-    public Task() {
-
-    }
 
     public int getId() {
         return id;
